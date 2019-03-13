@@ -1,4 +1,4 @@
-package com.shuttler.firsttestapp.ScreenRecorderApk;
+package com.shuttler.screen_recorder.ScreenRecorderApk;
 
 import android.Manifest;
 import android.content.Context;
